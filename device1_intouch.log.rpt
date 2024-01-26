@@ -1,0 +1,39 @@
+Device Boot Report
+InTouch log file: device1_intouch.log
+
+=== Device Boot ===
+435369(device1_intouch.log): 2014-Mar-25 19:11:59 Boot Start
+=== Device Boot ===
+435759(device1_intouch.log): 2014-Mar-25 19:15:02 Boot Completed
+	Boot Time: 183000ms
+
+=== Device Boot ===
+436500(device1_intouch.log): 2014-Mar-25 19:29:59 Boot Start
+=== Device Boot ===
+436859(device1_intouch.log): 2014-Mar-25 19:32:44 Boot Completed
+	Boot Time: 165000ms
+
+=== Device Boot ===
+440719(device1_intouch.log): 2014-Mar-25 22:01:46 Boot Start
+=== Device Boot ===
+440791(device1_intouch.log): 2014-Mar-25 22:04:27 Boot Completed
+	Boot Time: 161000ms
+
+=== Device Boot ===
+440866(device1_intouch.log): 2014-Mar-26 12:47:42 Boot Start
+=== Device Boot ===
+441216(device1_intouch.log): 2014-Mar-26 12:50:29 Boot Completed
+	Boot Time: 167000ms
+
+=== Device Boot ===
+442094(device1_intouch.log): 2014-Mar-26 20:41:34 Boot Start
+=== Device Boot ===
+442432(device1_intouch.log): 2014-Mar-26 20:44:13 Boot Completed
+	Boot Time: 159000ms
+
+=== Device Boot ===
+443073(device1_intouch.log): 2014-Mar-27 14:09:01 Boot Start
+=== Device Boot ===
+443411(device1_intouch.log): 2014-Mar-27 14:11:42 Boot Completed
+	Boot Time: 161000ms
+
