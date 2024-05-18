@@ -1,7 +1,7 @@
 # PS7: Kronos Log Parsing
 
 ## Contact
-Name: Nicholas Bartow
+Name: Patricia Antlitz
 Section: 201
 Time to Complete: 10 hours
 
